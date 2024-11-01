@@ -1,1 +1,0 @@
-import{u as r,j as e,k as c,l as i,m as a,o as l,q as u,v as _}from"./runtime.CrPFOO77.js";function m(){const s=c,n=s.l.u;n&&(n.b.length&&r(()=>{f(s),a(n.b)}),e(()=>{const o=i(()=>n.m.map(_));return()=>{for(const t of o)typeof t=="function"&&t()}}),n.a.length&&e(()=>{f(s),a(n.a)}))}function f(s){if(s.l.s)for(const n of s.l.s)l(n);u(s.s)}export{m as i};

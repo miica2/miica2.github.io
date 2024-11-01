@@ -1,0 +1,1 @@
+import{y as r,z as e,A as c,B as i,C as a,g as l,d as u,D as _}from"./runtime.DuHzcu-5.js";function g(){const s=c,n=s.l.u;n&&(n.b.length&&r(()=>{f(s),a(n.b)}),e(()=>{const o=i(()=>n.m.map(_));return()=>{for(const t of o)typeof t=="function"&&t()}}),n.a.length&&e(()=>{f(s),a(n.a)}))}function f(s){if(s.l.s)for(const n of s.l.s)l(n);u(s.s)}export{g as i};
